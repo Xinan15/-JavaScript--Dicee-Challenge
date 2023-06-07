@@ -2,5 +2,5 @@
 
 - https://xinan15.github.io/-JavaScript--Dicee-Challenge/
 
-- JavaScript Practice
-- This Dice Game generates different results every time after refreshing the page.
+- This is a JavaScript Practice.
+- The page generates different results every time after refreshing.
