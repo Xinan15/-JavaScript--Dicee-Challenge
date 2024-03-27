@@ -12,8 +12,6 @@ The Dicee Challenge is a fun, interactive simple web application built with Java
 - JavaScript
 - CSS3
 - HTML5
-- This is a JavaScript Practice.
-- The page generates different results every time after refreshing.
 
 ### Screenshots
 
